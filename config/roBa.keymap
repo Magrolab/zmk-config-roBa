@@ -95,7 +95,7 @@
         ARROW {
             bindings = <
 &trans          &kp C_VOLUME_DOWN       &trans  &kp C_VOLUME_UP          &bt BT_CLR_ALL                      &trans  &kp MINUS      &kp EQUAL      &kp LEFT_BRACKET  &kp RIGHT_BRACKET
-&trans          &kp LC(LS(TAB))         &trans  &kp LS(TAB)              &bt BT_SEL 0    &trans      &trans  &trans  &kp GRAVE      &kp ASTERISK   &kp SEMI          &kp SINGLE_QUOTE
+&trans          &kp LC(LS(TAB))         &trans  &kp LC(TAB)              &bt BT_SEL 0    &trans      &trans  &trans  &kp GRAVE      &kp ASTERISK   &kp SEMI          &kp SINGLE_QUOTE
 &kp LEFT_SHIFT  &kp LG(LS(LEFT_ARROW))  &trans  &kp LG(LS(RIGHT_ARROW))  &bt BT_SEL 1    &trans      &trans  &trans  &kp BACKSLASH  &kp LESS_THAN  &kp GREATER_THAN  &kp SLASH
 &trans          &trans                  &trans  &trans                   &trans          &trans      &trans  &trans                                                  &trans
             >;
