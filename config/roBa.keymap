@@ -87,7 +87,7 @@
             bindings = <
 &trans            &kp N7        &kp N8        &kp N9  &kp EQUAL                      &kp KP_PLUS      &mkp MB4  &kp UP_ARROW  &mkp MB5   &kp KP_MINUS
 &trans            &kp N4        &kp N5        &kp N6  &kp SPACE  &none       &none   &kp ESC          &mkp MB1  &mkp MB3      &mkp MB2   &kp LEFT_SHIFT
-&kp LEFT_GUI      &kp NUMBER_1  &kp NUMBER_2  &kp N3  &kp ESC    &none       &none   &kp KP_ASTERISK  &kp LEFT  &kp DOWN      &kp RIGHT  &kp KP_SLASH
+&kp LEFT_SHIFT    &kp NUMBER_1  &kp NUMBER_2  &kp N3  &kp ESC    &none       &none   &kp KP_ASTERISK  &kp LEFT  &kp DOWN      &kp RIGHT  &kp KP_SLASH
 &kp LEFT_CONTROL  &kp N0        &kp PERIOD    &trans  &trans     &trans      &trans  &trans                                              &trans
             >;
         };
